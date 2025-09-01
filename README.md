@@ -33,7 +33,9 @@ These insights were re-framed into a **Q&A street interview script**.
    - Edited with **Canva/CapCut** → added background video and subtitles.  
 
 3. **Final Output**  
-   - Audio file generated: `/Users/akshayavhad/Downloads/Street Interview.mp3`  
+   - ## 🎧 Audio Output
+
+- [Click here to listen to the Street Interview](./Street_Interview.mp3)
 
 ---
 
